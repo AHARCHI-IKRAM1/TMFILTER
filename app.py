@@ -64,7 +64,8 @@ st.markdown(
 )
 
 # Chargement du modèle de classification
-classifier = pipeline("text-classification", model="camembert_sentiment_model")
+classifier = pipeline("text-classification", model="Ikram111/camembert_sentiment_model")
+
 
 # Option 1 : Analyse en temps réel
 st.markdown(
