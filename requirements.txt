@@ -1,0 +1,12 @@
+pandas 
+transformers
+torch
+tqdm 
+scikit-learn 
+nltk 
+emoji
+matplotlib
+datasets
+seaborn
+wor
+wordcloud
